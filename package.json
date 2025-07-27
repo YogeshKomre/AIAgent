@@ -20,7 +20,7 @@
   "test": "react-scripts test",
   "eject": "react-scripts eject"
 },
-"homepage": "https://YogeshKomre.github.io/AIAgents",
+"homepage": "https://YogeshKomre.github.io/AIAgent",
 "eslintConfig": {
     "extends": [
       "react-app",
