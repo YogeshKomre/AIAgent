@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/AIAgent/static/css/main.64901d81.css",
+    "main.js": "/AIAgent/static/js/main.dabfb63a.js",
+    "index.html": "/AIAgent/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.64901d81.css",
+    "static/js/main.dabfb63a.js"
+  ]
+}
