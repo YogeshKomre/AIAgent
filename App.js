@@ -12,6 +12,7 @@ function App() {
     const [isVoiceEnabled, setIsVoiceEnabled] = useState(true); // Default to voice enabled
     // Ref to automatically scroll to the latest message in the chat
     const messagesEndRef = useRef(null);
+    
 
     // Effect to scroll to the bottom of the chat window whenever chatHistory changes
     useEffect(() => {
